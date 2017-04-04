@@ -1,0 +1,7 @@
+# http://stackoverflow.com/questions/2517190/how-do-i-force-git-to-use-lf-instead-of-crlf-under-windows
+*.ts text=auto eol=lf
+*.js text=auto eol=lf
+*.md text=auto eol=lf
+*.zip binary
+*.png binary
+
