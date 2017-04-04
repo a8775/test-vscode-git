@@ -1,0 +1,14 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.autoSave": "afterDelay",
+    "vsicons.projectDetection.autoReload": true,
+    "vscode-stocks.stockSymbols": [
+        "msft",
+        "aapl"
+    ],
+    "vscode-stocks.useColors": true,
+    "workbench.iconTheme": "vs-seti",
+    "files.eol": "\n",
+    "window.zoomLevel": 0,
+    "typescript.implementationsCodeLens.enabled": true
+}
